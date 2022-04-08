@@ -27,8 +27,8 @@ When the conversion phase is complete, it will write the result to the output fi
 
 ## AspNet Core Identity Hash v2
 
-[![asciicast](https://asciinema.org/a/X734lRxR362yY3c8plfSWXxjZ.svg)](https://asciinema.org/a/X734lRxR362yY3c8plfSWXxjZ)
+[![asciicast](https://asciinema.org/a/485421.svg)](https://asciinema.org/a/485421)
 
 ## AspNet Core Identity Hash v3
 
-[![asciicast](https://asciinema.org/a/AGhufk5hViy9Permp1r0kSFSp.svg)](https://asciinema.org/a/AGhufk5hViy9Permp1r0kSFSp)
+[![asciicast](https://asciinema.org/a/485426.svg)](https://asciinema.org/a/485426)
